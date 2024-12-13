@@ -1,7 +1,7 @@
 [
     {
         "kernelSource": {
-            "name": "Mi CC 9e",
+            "name": "Mi_CC_9e",
             "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
             "branch": "laurus-q-oss",
             "device": "laurus-q-oss",
