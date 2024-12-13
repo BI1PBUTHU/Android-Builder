@@ -2,7 +2,7 @@
     {
         "kernelSource": {
             "name": "liuqin",
-            "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+            "repo": "https://github.com/BI1PBUTHU/xiaomi_kernel.git",
             "branch": "liuqin-t-oss",
             "device": "liuqin-t-oss",
             "defconfig": "defconfig"
