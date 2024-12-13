@@ -5,7 +5,7 @@
             "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
             "branch": "liuqin-t-oss",
             "device": "liuqin-t-oss",
-            "defconfig": "vendor/wayne_defconfig"
+            "defconfig": "defconfig"
         },
         "toolchains": [
             {
