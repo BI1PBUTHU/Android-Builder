@@ -2,10 +2,10 @@
     {
         "kernelSource": {
             "name": "liuqin",
-            "repo": "https://github.com/BI1PBUTHU/xiaomi_kernel",
-            "branch": "liuqin-t-oss",
-            "device": "liuqin-t-oss",
-            "defconfig": "defconfig"
+            "repo": "https://github.com/BI1PBUTHU/android_kernel_xiaomi_sm8475",
+            "branch": "staging",
+            "device": "staging",
+            "defconfig": "vendor/liuqin_defconfig"
         },
         "toolchains": [
             {
