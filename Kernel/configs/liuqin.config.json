@@ -1,7 +1,7 @@
 [
     {
         "kernelSource": {
-            "name": "Mi Pad 6 pro",
+            "name": "liuqin",
             "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
             "branch": "liuqin-t-oss",
             "device": "liuqin-t-oss",
