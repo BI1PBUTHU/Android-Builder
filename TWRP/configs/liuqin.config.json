@@ -1,1 +1,16 @@
-
+[
+    {
+        "OrangeFox": {
+            "Repo": "https://gitlab.com/OrangeFox/sync.git",
+            "Branch": "12.1"
+        },
+        "Device": {
+            "Repo": "https://github.com/twrpdtgen/android_device_xiaomi_liuqin",
+            "Branch": "liuqin-user-12-SKQ1.230401.001-V816.0.4.0.UMYCNXM-release-keys",
+            "Location": "device/xiaomi/liuqin",
+            "DeviceName": "liuqin",
+            "Makefile": "liuqin",
+            "BootPartition": "boot"
+        }
+    }
+]
