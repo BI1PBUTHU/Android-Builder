@@ -2,7 +2,7 @@
     {
         "kernelSource": {
             "name": "liuqin",
-            "repo": "https://github.com/Yaroslav51-dev/android_kernel_xiaomi_liuqin",
+            "repo": "https://github.com/BI1PBUTHU/android_kernel_xiaomi_liuqin",
             "branch": "master",
             "device": "liuqin",
             "defconfig": "defconfig"
