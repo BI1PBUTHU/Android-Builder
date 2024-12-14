@@ -2,10 +2,10 @@
     {
         "kernelSource": {
             "name": "liuqin",
-            "repo": "https://github.com/BI1PBUTHU/android_kernel_xiaomi_liuqin",
-            "branch": "master",
+            "repo": "https://github.com/fjrXTR/v1llx-gki-5.10",
+            "branch": "villhaze-new",
             "device": "liuqin",
-            "defconfig": "gki_defconfig"
+            "defconfig": "defconfig"
         },
         "toolchains": [
             {
