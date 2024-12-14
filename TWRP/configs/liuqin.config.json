@@ -10,7 +10,7 @@
             "Location": "device/xiaomi/liuqin",
             "DeviceName": "liuqin",
             "Makefile": "liuqin",
-            "BootPartition": "boot"
+            "BootPartition": "recovery"
         }
     }
 ]
