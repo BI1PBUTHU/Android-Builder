@@ -2,8 +2,8 @@
     {
         "kernelSource": {
             "name": "liuqin",
-            "repo": "https://github.com/LowTension/android_kernel_xiaomi_sm8475",
-            "branch": "staging",
+            "repo": "https://github.com/BI1PBUTHU/android_kernel_xiaomi_liuqin",
+            "branch": "master",
             "device": "liuqin",
             "defconfig": "gki_defconfig"
         },
