@@ -3,7 +3,7 @@
         "kernelSource": {
             "name": "liuqin",
             "repo": "https://github.com/BI1PBUTHU/v1llx-gki-5.10",
-            "branch": "fb0cece721e4bc2ead3ebcc120c0311ac7cd0654",
+            "branch": "b6b9dff",
             "device": "liuqin",
             "defconfig": "gki_defconfig"
         },
