@@ -5,7 +5,7 @@
             "repo": "https://github.com/BI1PBUTHU/android_kernel_xiaomi_liuqin",
             "branch": "master",
             "device": "liuqin",
-            "defconfig": "defconfig"
+            "defconfig": "gki_defconfig"
         },
         "toolchains": [
             {
